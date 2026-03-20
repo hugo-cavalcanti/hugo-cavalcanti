@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Hugo Cavalcanti
+# 💻 Hugo Cavalcanti
 
 **`FullStack Developer`**
 
