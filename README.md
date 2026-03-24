@@ -2,7 +2,7 @@
 
 **`FullStack Developer`**
 
-I’m Hugo Cavalcanti, based in Recife-PE. I am a student Software Development, working towards becoming a Full-Stack Developer. I am highly motivated by teamwork and I value effective communication in every project. A fun fact? I speak 4 languages and I think I can play really good football 😆
+Eu sou Hugo Cavalcanti, recifense com orgulho. Sou estudante de Análise e Desenvolvimento de Sistemas, trabalhando para me tornar um Desenvolvedor Full-Stack. Sou altamente motivado pelo trabalho em equipe e valorizo a comunicação eficaz em todos os projetos.
 
 <p align="left">
     <a href="https://github.com/hugo-cavalcanti?tab=repositories&sort=stargazers">
